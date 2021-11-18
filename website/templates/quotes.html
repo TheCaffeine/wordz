@@ -1,0 +1,22 @@
+<header class="masthead" style="background-image: url('{{ url_for('static', filename='/assets/img/home-bg.jpg') }}')">
+<div class="container">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8 text-center">
+            <div class="site-heading">
+                <h3>
+                    <q>
+                        {{ quote.quote }}
+                    </q>
+                </h3>
+                <p class="author mt-2">
+                    -{{ quote.author }}
+                </p>
+            </div>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+</header>
+
+
