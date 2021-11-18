@@ -1,4 +1,4 @@
-# D-Blog
+# Wordz
 ## Author
 
 [TheCaffeine](https://github.com/TheCaffeine)
@@ -37,7 +37,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/TheCaffeine/D-blog-.git
+https://github.com/TheCaffeine/wordz.git
   ```
 2. Move to the folder and install requirements
   ```bash
