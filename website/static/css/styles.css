@@ -86,12 +86,12 @@ body {
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.116);
 }
 
 hr {
   margin: 1rem 0;
-  color: inherit;
+  color:indigo 
   background-color: currentColor;
   border: 0;
   opacity: 0.25;
